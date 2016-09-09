@@ -1,0 +1,17 @@
+System # 
+Amazon Linux AMI 2016.03.3 (HVM), SSD Volume Type
+--------------------------------------------------------- 
+实例: i-0269b8dbb45ceb3c7  
+Region # Ireland    /    User Name # ec2-user 
+
+USER < PWD >  # 
+osder@bk.ru < qwaszx123 > 
+
+公有 DNS: 
+ec2-54-154-169-164.eu-west-1.compute.amazonaws.com 
+
+IP address 
+公有/54.154.169.164 私有/172.31.29.103 
+
+----------------------------------------------------------------------
+Amazon AWS EC2 [https://aws.amazon.com/] 
